@@ -1,6 +1,6 @@
 # 🎓 Automated Attendance Management System Using Face Recognition
 
-![Banner](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=80&w=1600&auto=format&fit=crop)
+![JavaScript Banner](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 
 > A smart, contactless, AI-powered attendance management system built using the MERN stack and facial recognition technology.
 
